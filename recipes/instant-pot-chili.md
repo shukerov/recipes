@@ -34,7 +34,7 @@
 2. Add the bell pepper, onion, celery, and garlic, and sauté until the onions are softened and translucent. This takes about 5 minutes.
 3. Add the ground beef, breaking it up into small pieces. Cook until no longer pink.
 4. Stir in the chili powder, salt, oregano, and tomato paste, until everything is evenly mixed:
-5. Strain the tomatoes, then add enough water or broth to make 1 cup total liquid. Add the liquid, the strained tomatoes, and the beans.
+5. Strain the tomatoes, then add enough water or broth to make 1/2 cup total liquid. When increasing the recipe size, don't add more than 1 cup of total liquid. Add the liquid, the strained tomatoes, and the beans.
 6. Place the lid on the pressure cooker, and ensure the pressure regulator is set to the sealing position. Select the "chili" program and set the timer to 20 minutes. If you do not have a chili program, set it to high pressure manually, for 20 minutes. It will take 10-20 minutes for the pot to come up to pressure, at which point the timer will start counting down. Total time will be 30-40 minutes.
 7. Release the pressure valve. Serve.
 
